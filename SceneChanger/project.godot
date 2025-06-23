@@ -10,9 +10,10 @@ config_version=5
 
 [application]
 
-config/name="SceneTransition"
-config/features=PackedStringArray("4.5", "Forward Plus")
-config/icon="res://icon.svg"
+config/name="SceneChanger"
+config/tags=PackedStringArray("tool")
+config/features=PackedStringArray("4.1", "Forward Plus")
+config/icon="res://icon.png"
 
 [autoload]
 
